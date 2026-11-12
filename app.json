@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "Cofre Digital",
+    "slug": "cofre-digital",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "backgroundColor": "#202020"
+    },
+    "android": {
+      "package": "com.cofredigital.app"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.cofredigital.app"
+    }
+  }
+}
